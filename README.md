@@ -6,7 +6,7 @@
   🌸
   <span style="font-family: 'Montserrat', cursive;">Fatima Waseem</span>
   🌸
-</h1>
+</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&weight=700&size=28&duration=2900&pause=800&color=F7A8B8&center=true&vCenter=true&width=600&lines=Building+at+the+edge+of+hardware+and+AI...;Embedded+systems+%E2%9C%A8+Linux+magic+%F0%9F%90%BC+Agentic+AI+%F0%9F%A7%A1;Pudding%2C+cake%2C+and+code+%F0%9F%A5%A6%F0%9F%8D%B0%E2%9C%A8"
