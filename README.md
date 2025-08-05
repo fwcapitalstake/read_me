@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fwhcodes&color=pink&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=fwhcodes&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Hi! I'm Fatima, a Computer Engineering student in love with:
 
 ---
 
-## 📊 Cute Stats 📊
+## 📊 Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fwhcodes&show_icons=true&theme=material-palenight&bg_color=1a1b27&title_color=ffc8dd&icon_color=f7a8b8&text_color=ffffff&border_color=f7a8b8" alt="GitHub Stats"/>
