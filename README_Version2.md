@@ -61,8 +61,8 @@ Hi! I’m Fatima, a Computer Engineering student in love with:
 ## 🍰 Let’s Connect!
 
 - 💌 fatimahotiana@gmail.com
-- 🌸 [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual LinkedIn -->
-- 🍡 [Portfolio](https://your-website.com) <!-- Replace if you have one -->
+- 🌸 [LinkedIn](https://www.linkedin.com/in/fwhcodes)
+- 🍡 [GitHub](https://github.com/fwhcodes)
 
 ---
 
