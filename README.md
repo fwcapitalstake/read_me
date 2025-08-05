@@ -1,12 +1,21 @@
+Here are the username references in your code that need updating. Your current username in the code is `fwcapitalstake`. Since your new username is `fwhcodes`, I will update all such references:
+
+- Profile views badge: `https://komarev.com/ghpvc/?username=fwcapitalstake&...`
+- GitHub stats: `https://github-readme-stats.vercel.app/api?username=fwcapitalstake...`
+- Top languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=fwcapitalstake...`
+
+Here is your updated markdown:
+
+````markdown
 <!--
 🌸 CHERRY BLOSSOM VIBES START HERE 🌸
 -->
 
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/twitter/378/cherry-blossom_1f338.png" height="35"/>
+  🌸
   <span style="font-family: 'Montserrat', cursive;">Fatima Waseem</span>
-  <img src="https://em-content.zobj.net/source/twitter/378/cherry-blossom_1f338.png" height="35"/>
-</h1>
+  🌸
+</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&weight=700&size=28&duration=2900&pause=800&color=F7A8B8&center=true&vCenter=true&width=600&lines=Building+at+the+edge+of+hardware+and+AI...;Embedded+systems+%E2%9C%A8+Linux+magic+%F0%9F%90%BC+Agentic+AI+%F0%9F%A7%A1;Pudding%2C+cake%2C+and+code+%F0%9F%A5%A6%F0%9F%8D%B0%E2%9C%A8"
@@ -14,8 +23,12 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="180" alt="cherry blossom anime gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="cute coding animation"/>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fwhcodes&color=pink&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -60,23 +73,39 @@ Hi! I'm Fatima, a Computer Engineering student in love with:
 
 ## 🍰 Let's Connect!
 
+<div align="center">
+  
 - 💌 fatimahotiana@gmail.com
-- 🌸 [LinkedIn](https://www.linkedin.com/in/fwhcodes)
-- 🍡 [GitHub](https://github.com/fwhcodes)
+- 🌸 [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual LinkedIn -->
+- 🍡 [Portfolio](https://your-website.com) <!-- Replace if you have one -->
+
+</div>
 
 ---
 
+## 📊 Cute Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fwhcodes&show_icons=true&theme=material-palenight&bg_color=1a1b27&title_color=ffc8dd&icon_color=f7a8b8&text_color=ffffff&border_color=f7a8b8" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwhcodes&layout=compact&theme=material-palenight&bg_color=1a1b27&title_color=ffc8dd&text_color=ffffff&border_color=f7a8b8" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+</div>
+
 <p align="center">
-  <img src="https://em-content.zobj.net/source/twitter/378/cherry-blossom_1f338.png" height="24"/>
-  <img src="https://em-content.zobj.net/source/twitter/378/shortcake_1f370.png" height="24"/>
-  <img src="https://em-content.zobj.net/source/twitter/378/custard_1f36e.png" height="24"/>
-  <img src="https://em-content.zobj.net/source/twitter/378/cherry-blossom_1f338.png" height="24"/>
+  🌸 🍰 🍮 🌸
 </p>
 
 <p align="center" style="font-style: italic; color: #f7a8b8;">
   "May your code be bug-free and your desserts always sweet." <br>  — Fatima 🍰✨
 </p>
+````
 
-<!--
-🌸 CHERRY BLOSSOM VIBES END HERE 🌸
--->
+**Be sure to update any other occurrences of your old username (like in links or badges) in any other files or badges you use!**
