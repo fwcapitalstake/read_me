@@ -1,12 +1,3 @@
-Here are the username references in your code that need updating. Your current username in the code is `fwcapitalstake`. Since your new username is `fwhcodes`, I will update all such references:
-
-- Profile views badge: `https://komarev.com/ghpvc/?username=fwcapitalstake&...`
-- GitHub stats: `https://github-readme-stats.vercel.app/api?username=fwcapitalstake...`
-- Top languages: `https://github-readme-stats.vercel.app/api/top-langs/?username=fwcapitalstake...`
-
-Here is your updated markdown:
-
-````markdown
 <!--
 🌸 CHERRY BLOSSOM VIBES START HERE 🌸
 -->
@@ -106,6 +97,3 @@ Hi! I'm Fatima, a Computer Engineering student in love with:
 <p align="center" style="font-style: italic; color: #f7a8b8;">
   "May your code be bug-free and your desserts always sweet." <br>  — Fatima 🍰✨
 </p>
-````
-
-**Be sure to update any other occurrences of your old username (like in links or badges) in any other files or badges you use!**
