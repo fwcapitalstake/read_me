@@ -67,7 +67,7 @@ Hi! I'm Fatima, a Computer Engineering student in love with:
 <div align="center">
   
 - 💌 fatimahotiana@gmail.com
-- 🌸 [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual LinkedIn -->
+- 🌸 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/fatima-w-5353b9267/) <!-- Replace with your actual LinkedIn -->
 - 🍡 [Portfolio](https://your-website.com) <!-- Replace if you have one -->
 
 </div>
